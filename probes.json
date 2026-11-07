@@ -1,0 +1,173 @@
+[
+ {
+  "class": "hbm",
+  "gb": 64,
+  "name": "Instinct MI210",
+  "queries": [
+   "MI210 闲鱼 价格",
+   "MI210 洋垃圾",
+   "AMD MI210 used price ebay",
+   "MI210 二手 显卡"
+  ],
+  "urls": [],
+  "match": [
+   "MI210"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 128,
+  "name": "Instinct MI250X",
+  "queries": [
+   "MI250X used price ebay",
+   "MI250X 二手 价格",
+   "MI250X 闲鱼"
+  ],
+  "urls": [],
+  "match": [
+   "MI250X",
+   "MI250"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 96,
+  "name": "Intel Gaudi 2",
+  "queries": [
+   "Gaudi 2 HL-225 ebay price",
+   "Gaudi 2 二手 价格",
+   "intel gaudi 2 accelerator used"
+  ],
+  "urls": [],
+  "match": [
+   "Gaudi 2",
+   "Gaudi2",
+   "HL-225"
+  ]
+ },
+ {
+  "class": "compute",
+  "gb": 48,
+  "name": "RTX 4090 48GB mod",
+  "queries": [
+   "4090 48G 魔改 价格",
+   "RTX 4090 48GB modded buy",
+   "4090 魔改 48G 闲鱼"
+  ],
+  "urls": [],
+  "match": [
+   "4090"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 32,
+  "name": "Tesla V100 32GB",
+  "queries": [
+   "Tesla V100 32GB used price",
+   "V100 32G 洋垃圾"
+  ],
+  "urls": [
+   "https://gpusold.com/gpu/tesla-v100-32"
+  ],
+  "match": [
+   "V100"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 32,
+  "name": "Instinct MI100",
+  "queries": [
+   "MI100 32GB ebay price",
+   "MI100 二手 价格"
+  ],
+  "urls": [],
+  "match": [
+   "MI100"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 64,
+  "name": "Ascend 910B",
+  "queries": [
+   "昇腾 910B 二手 价格",
+   "Ascend 910B used price",
+   "910B 闲鱼"
+  ],
+  "urls": [],
+  "match": [
+   "910B",
+   "昇腾"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 80,
+  "name": "H100 SXM 80GB used",
+  "queries": [
+   "H100 SXM 80GB used price",
+   "H100 80G 二手 价格"
+  ],
+  "urls": [],
+  "match": [
+   "H100"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 80,
+  "name": "A100 80GB SXM used",
+  "queries": [
+   "A100 80GB SXM used price",
+   "A100 80G 洋垃圾 价格"
+  ],
+  "urls": [],
+  "match": [
+   "A100"
+  ]
+ },
+ {
+  "class": "hbm",
+  "gb": 192,
+  "name": "Instinct MI300X",
+  "queries": [
+   "MI300X used price buy",
+   "MI300X 二手 价格"
+  ],
+  "urls": [],
+  "match": [
+   "MI300X",
+   "MI300"
+  ]
+ },
+ {
+  "class": "memory",
+  "gb": 64,
+  "name": "DDR4 64GB RDIMM pulls",
+  "queries": [
+   "64GB DDR4 RDIMM used ebay price"
+  ],
+  "urls": [
+   "https://dimmsum.com/ddr4/64gb-3200-rdimm"
+  ],
+  "match": [
+   "RDIMM",
+   "DDR4"
+  ]
+ },
+ {
+  "class": "compute",
+  "gb": 32,
+  "name": "Radeon PRO V620",
+  "queries": [
+   "Radeon PRO V620 ebay price",
+   "V620 32G 二手"
+  ],
+  "urls": [],
+  "match": [
+   "V620"
+  ]
+ }
+]
